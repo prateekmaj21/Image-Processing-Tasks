@@ -2,7 +2,7 @@
 
 Reference Link : http://datahacker.rs/002-opencv-projects-how-to-cartoonize-an-image-with-opencv-in-python/
 
-<img src="https://github.com/prateekmaj21/Image-Processing-Tasks/blob/main/Cartoon%20Effect%20to%20Photos/person.jpeg" width="500" height="500"/>
+<img src="https://github.com/prateekmaj21/Image-Processing-Tasks/blob/main/Cartoon%20Effect%20to%20Photos/person.jpeg" width="500" height="800"/>
 
 # Original Image
 ![Original Photo](https://github.com/prateekmaj21/Image-Processing-Tasks/blob/main/Cartoon%20Effect%20to%20Photos/person.jpeg)
